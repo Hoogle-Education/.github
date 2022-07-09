@@ -7,7 +7,7 @@
 
 ## Por que a Hoogle?
 
-## Experiências que temos em nosso time
+## Nosso Expertise
 
 <div style="display: inline_block align = center">
   <table>
