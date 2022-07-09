@@ -33,6 +33,7 @@
       <td>
           <img align="center" alt="Hugo-Springboot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
           <img align="center" alt="Hugo-dotnet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+        <img align="center" alt="Hugo-Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
       </td>
       <td>
           <img align="center" alt="Hugo-Selenium" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
