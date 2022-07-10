@@ -1,4 +1,4 @@
-## Olá, dev! 👋
+## Hey, dev! 👋 Nós somos a Hoogle Education!
 
 
 🙋‍♀️ Nós queremos te colocar no seu próximo nível como desenvolvedor! <br>
