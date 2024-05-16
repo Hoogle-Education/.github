@@ -1,7 +1,7 @@
-## Hey, dev! 👋 Nós somos a Hoogle Education!
+## Hey, dev! 👋 Aqui é o prof. Hugo Rafael!
 
 
-🙋‍♀️ Nós queremos te colocar no seu próximo nível como desenvolvedor! <br>
+🙋‍♀️ Eu e meu time queremos te colocar no seu próximo nível como desenvolvedor! <br>
 👩‍💻 Somos uma rede de professores e trabalhamos com as mais diversas demandas dos alunos. <br>
 🧙 Sempre há espaço para aprender um pouco mais, entre em contato e vamos tirar aquele seu projeto do papel! <br>
 
